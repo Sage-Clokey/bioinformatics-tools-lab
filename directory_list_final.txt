@@ -1,0 +1,42 @@
+.:
+total 3.0K
+drwxr-xr-x  6 sclokey ucsc_p_all_usr   5 May  6 15:02 .
+drwx------ 12 sclokey ucsc_p_all_usr  22 May  6 14:22 ..
+drwxr-xr-x  2 sclokey ucsc_p_all_usr   0 May  6 14:12 Output
+-rw-r--r--  1 sclokey ucsc_p_all_usr 327 May  6 14:13 directory_list.txt
+-rw-r--r--  1 sclokey ucsc_p_all_usr   0 May  6 15:02 directory_list_final.txt
+drwxr-xr-x  2 sclokey ucsc_p_all_usr   1 May  6 14:22 fasta_files
+drwxr-xr-x  3 sclokey ucsc_p_all_usr   3 May  6 14:54 fastq_files
+drwxr-xr-x  2 sclokey ucsc_p_all_usr   2 May  6 14:31 fastq_results
+
+./Output:
+total 512
+drwxr-xr-x 2 sclokey ucsc_p_all_usr 0 May  6 14:12 .
+drwxr-xr-x 6 sclokey ucsc_p_all_usr 5 May  6 15:02 ..
+
+./fasta_files:
+total 47K
+drwxr-xr-x 2 sclokey ucsc_p_all_usr   1 May  6 14:22 .
+drwxr-xr-x 6 sclokey ucsc_p_all_usr   5 May  6 15:02 ..
+-rw-r--r-- 1 sclokey ucsc_p_all_usr 75K May  6 14:22 ls_orchid.fasta
+
+./fastq_files:
+total 19M
+drwxr-xr-x 3 sclokey ucsc_p_all_usr    3 May  6 14:54 .
+drwxr-xr-x 6 sclokey ucsc_p_all_usr    5 May  6 15:02 ..
+-rw-r--r-- 1 sclokey ucsc_p_all_usr 4.2M May  6 14:54 2k_subsample_SRR9436595.txt
+-rw-r--r-- 1 sclokey ucsc_p_all_usr  17M May  6 14:31 SRR9436595.fastq.gz
+drwxr-xr-x 2 sclokey ucsc_p_all_usr    1 May  6 14:29 fastq_files
+
+./fastq_files/fastq_files:
+total 1.5K
+drwxr-xr-x 2 sclokey ucsc_p_all_usr   1 May  6 14:29 .
+drwxr-xr-x 3 sclokey ucsc_p_all_usr   3 May  6 14:54 ..
+-rw-r--r-- 1 sclokey ucsc_p_all_usr 17M May  6 14:29 SRR9436595.fastq.gz
+
+./fastq_results:
+total 286K
+drwxr-xr-x 2 sclokey ucsc_p_all_usr    2 May  6 14:31 .
+drwxr-xr-x 6 sclokey ucsc_p_all_usr    5 May  6 15:02 ..
+-rw-r--r-- 1 sclokey ucsc_p_all_usr 632K May  6 14:31 SRR9436595_fastqc.html
+-rw-r--r-- 1 sclokey ucsc_p_all_usr 411K May  6 14:31 SRR9436595_fastqc.zip

@@ -1,0 +1,37 @@
+1. Histatin-3 (HTN3)
+
+Length: 51 amino acids
+
+Function:
+
+Found in saliva
+
+Kills germs like bacteria and fungi
+
+Helps heal wounds in the mouth
+
+Helps form a protective layer on teeth (called the enamel pellicle)
+
+
+
+2. Where is Histatin-3 found?
+
+It is secreted (released) by cells in the salivary glands into your saliva.
+
+
+
+3. How many phosphorylation sites does human UTF1 have?
+
+Human UTF1 has at least 4 known phosphorylation sites:
+
+S18, S21, T35, and S42
+
+These sites were found in lab experiments
+
+
+
+4. Are these sites found in mouse UTF1 too?
+
+Yes, these phosphorylation sites are conserved in mice.
+
+The mouse version of UTF1 is very similar, with over 85% matching sequence, and it includes the same key sites.
